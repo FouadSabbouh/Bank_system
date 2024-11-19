@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1730789882 source:c:\users\admin\documents\bankproject\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<iomanip>
+	"myStringLib.h"
+
+1730790229 c:\users\admin\documents\bankproject\mystringlib.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<iomanip>
+
